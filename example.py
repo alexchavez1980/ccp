@@ -1,3 +1,9 @@
+# Librerías necesarias: https://docs.manim.community/en/stable/installation/windows.html#required-dependencies
+# No me anduvieron, alterné con:
+# pip install manimce
+# pip install ffmpeg
+# pip install manim
+ 
 from manim import *
 
 class CreateCircle(Scene):
