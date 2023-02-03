@@ -1,0 +1,5 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/ALEXANDER CHAVEZ/OneDrive - ISECOM S.A/Desktop/ccp/media/videos/example01/1080p60/partial_movie_files/mysecondfunction/2902699114_3774592496_223132457.mp4'
+file 'file:C:/Users/ALEXANDER CHAVEZ/OneDrive - ISECOM S.A/Desktop/ccp/media/videos/example01/1080p60/partial_movie_files/mysecondfunction/3931933789_1988264284_1586851471.mp4'
+file 'file:C:/Users/ALEXANDER CHAVEZ/OneDrive - ISECOM S.A/Desktop/ccp/media/videos/example01/1080p60/partial_movie_files/mysecondfunction/3931933789_2340825248_1286410244.mp4'
+file 'file:C:/Users/ALEXANDER CHAVEZ/OneDrive - ISECOM S.A/Desktop/ccp/media/videos/example01/1080p60/partial_movie_files/mysecondfunction/3931933789_2526496290_1517291509.mp4'
